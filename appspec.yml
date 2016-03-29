@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /source/
+  - source: /sources/
     destination: /var/www/productions/cloudapi
 hooks:
   BeforeInstall:
